@@ -1,29 +1,98 @@
+
+
 <h1 align="center">Hi 👋, I'm Jaideep Chandrasekharuni</h1>
-<h3 align="center">Results-driven Computer Science graduate with hands-on experience in Generative AI, Machine Learning, and Deep Learning. Demonstrated expertise in developing AI-powered solutions, including LLM applications, computer vision systems, and automated content generation. Seeking opportunities to leverage technical expertise in AI/ML to drive innovation and solve complex business challenges.</h3>
+<h3 align="center">
+🚀 Generative AI Enthusiast | Machine Learning Innovator | Deep Learning Explorer  
+🎓 Recent B.Tech Graduate | Passionate Problem Solver | Hackathon Winner  
+🎯 Transforming ideas into scalable AI solutions to shape the future.
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaideep27&label=Profile%20views&color=0e75b6&style=flat" alt="jaideep27" /> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="AI GIF" width="600"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaideep27" alt="jaideep27" /></a> </p>
+---
 
-- 🌱 I’m currently learning **about MLOPs and Agentic AI.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Jaideep27?tab=repositories](https://github.com/Jaideep27?tab=repositories)
-
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
-
-- 📫 How to reach me **jaideepch007@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KabdMs2lOD6ESILLzvf3Ex6KDbr6YJId/view?usp=sharing](https://drive.google.com/file/d/1KabdMs2lOD6ESILLzvf3Ex6KDbr6YJId/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jaideep ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaideep ch" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@jaideepch007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@jaideepch007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jaideep ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaideep ch" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/jaideep 007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="jaideep 007" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaideep27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jaideep27&theme=radical&margin-w=15&margin-h=15&column=5" alt="GitHub Trophies" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaideep27&show_icons=true&locale=en&layout=compact" alt="jaideep27" /></p>
+### 🌟 Professional Snapshot:
+- 🔍 **Generative AI Specialist**: Expertise in **LLM Applications**, **Computer Vision**, **OCR Systems**, and **Content Generation**.  
+- 🎯 **Technical Proficiency**:  
+  - **Core Frameworks**: PyTorch, TensorFlow, FastAPI, Scikit-learn  
+  - **Gen AI Tools**: LangChain, Hugging Face, RAG Systems  
+  - **Specializations**: NLP, Knowledge Graphs, Transformers  
+- 🏆 **Notable Achievements**:  
+  - Built a **Cancer Prediction Hybrid Model** with 97% accuracy.  
+  - Developed an **OCR System** achieving 98% text extraction accuracy.  
+  - Winner of **Aptean's AI Hackathon**, Bangalore.  
+
+---
+
+### 💻 Current Focus:
+- 🌱 Exploring **MLOps** and **Agentic AI** to streamline AI production pipelines.  
+- 📈 **Projects in Progress**: AI-driven insights hub and advanced GAN models.
+
+---
+
+### 🔗 Connect with Me:
+<p align="center">
+  <a href="https://linkedin.com/in/jaideep-ch-905483221" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@jaideepch007" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://github.com/Jaideep27" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/jaideepch007/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Technical Skills:
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-007ACC?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+</p>
+
+---
+
+### 🔥 Highlights:
+- **Cancer Prediction Model**: Achieved **97% accuracy** with ensemble learning.  
+- **OCR System**: Architected a high-accuracy pipeline using **KerasOCR** and **Computer Vision**.  
+- **Bitcoin Insights Hub**: Built a platform integrating technical analysis and sentiment evaluation.  
+
+---
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaideep27&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaideep27&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 🌐 Explore More:
+- 📝 My Articles: [Medium](https://medium.com/@jaideepch007)  
+- 📄 My Resume: [View Here](https://drive.google.com/file/d/1KabdMs2lOD6ESILLzvf3Ex6KDbr6YJId/view?usp=sharing)
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="AI Animation" width="600" />
+</div>
+
