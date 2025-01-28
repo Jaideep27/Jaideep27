@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Jaideep Chandrasekharuni</h1>
-<h3 align="center">Results-driven Computer Science graduate with hands-on experience in Generative AI, Machine Learning, and Deep Learning. Demonstrated expertise in developing AI-powered solutions, including LLM applications, computer vision systems, and automated content generation. Seeking opportunities to leverage technical expertise in AI/ML to drive innovation and solve complex business challenges.</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="AI GIF" width="800"/>
 </div>
+
+<h3 align="center">Results-driven Computer Science graduate with hands-on experience in Generative AI, Machine Learning, and Deep Learning. Demonstrated expertise in developing AI-powered solutions, including LLM applications, computer vision systems, and automated content generation. Seeking opportunities to leverage technical expertise in AI/ML to drive innovation and solve complex business challenges.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaideep27&label=Profile%20views&color=0e75b6&style=flat" alt="jaideep27" /> </p>
 
 - 🌱 Currently exploring **MLOps** and **Agentic AI** to streamline AI production pipelines.  
 
-- 👨‍💻 All of my projects are available at  [here](https://github.com/Jaideep27?tab=repositories)
+- 👨‍💻 [Projects](https://github.com/Jaideep27?tab=repositories)
 
 
 
+- 📝 [Articles](https://medium.com/@jaideepch007)  
 
-- 📝 My Articles: [Medium](https://medium.com/@jaideepch007)  
-
-- 📄 My Resume: [View Here](https://drive.google.com/file/d/1KabdMs2lOD6ESILLzvf3Ex6KDbr6YJId/view?usp=sharing)
+- 📄 [Resume] (https://drive.google.com/file/d/1KabdMs2lOD6ESILLzvf3Ex6KDbr6YJId/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
