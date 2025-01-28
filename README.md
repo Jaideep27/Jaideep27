@@ -43,4 +43,3 @@
 - 📜 **Google Data Science**: Completed an industry-focused internship in **Applied Data Science**.  
 - 💻 **Coding Profiles**: Active on **LeetCode** and **HackerRank**, with certifications in **Python Development**, **Problem Solving**, and **SQL**.  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaideep27&show_icons=true&locale=en&layout=compact" alt="jaideep27" /></p>
