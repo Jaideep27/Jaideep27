@@ -35,7 +35,7 @@
 
 #### **Generative AI Intern** @ **XANSR TECHNOLOGY**  *(June 2024 – December 2024 | Hyderabad)*
   
-**Been a part of building Saval.ai (AI-driven UPSC Preparation App)**  
+- **Been a part of building Saval.ai (AI-driven UPSC Preparation App)**  
 
 ### Achievements
 
