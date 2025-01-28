@@ -37,14 +37,6 @@
 *(June 2024 – December 2024 | Hyderabad)*  
 **Project: Saval.ai (AI-driven UPSC Preparation App)**  
 
-- **Technologies Used**: Python, LangChain, Hugging Face, PostgreSQL, MinIO, FastAPI, KerasOCR, Librosa, Gemini API, Claude API.  
-- **Key Contributions**:  
-  - Architected an **end-to-end OCR system** using **KerasOCR** and **Computer Vision** for document processing, achieving **98% accuracy** in text extraction and diagram segregation.  
-  - Developed an **audio processing pipeline** using **Librosa** and **MFCC coefficients**, achieving **95% transcription accuracy** across diverse audio inputs.  
-  - Engineered an **LLM-powered content generation system** using **Gemini** and **Claude APIs**, automating lecture creation and intelligent keyword extraction for enhanced content discoverability.  
-  - Built a **scalable database system** for UPSC exam content using **PostgreSQL** and **MinIO**, incorporating 10+ years of Prelims and Mains PYQs, with optimized RESTful APIs achieving **sub-second query response times**.  
-  - Designed an **automated web scraping system** using **SerpAPI Crawl4ai**, streamlining data collection and content aggregation for comprehensive educational resources.  
-
 ### Achievements
 
 - 🏆 **Hackathon Winner**: Secured **1st place** in Aptean's AI Hackathon, Bangalore (120+ participants).  
